@@ -19,7 +19,7 @@ Use redis as a shopping cart.
 
 2.active python virtualenv
 
-3.set **JWT_SECRET** in .env file
+3.set **JWT_SECRET** and settings send email in .env file
 
 4.install packages
 
