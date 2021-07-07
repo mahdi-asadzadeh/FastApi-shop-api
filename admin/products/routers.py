@@ -61,7 +61,7 @@ async def update(
     product.title = title or product.title
     product.price = price or product.price
     product.body = body or product.body
-    product.image = image or product.body
+    product.image = image or product.image
     product.save()
     return product
 
